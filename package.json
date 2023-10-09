@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "@npmcli/config": "^8.0.0",
+    "axios": "^1.5.1",
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "fs": "^0.0.1-security",
+    "nodemon": "^3.0.1",
+    "plivo": "^4.57.0",
+    "react-router-dom": "^6.16.0"
+  }
+}
